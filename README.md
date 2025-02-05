@@ -1,7 +1,9 @@
 📌 Project Overview
+
 This is a simple CRUD (Create, Read, Update, Delete) application built using PHP, MySQL, and JavaScript. The project allows users to perform essential database operations, such as adding, viewing, editing, and deleting user records with proper validation.
 
 ⚡ Features
+
 ✅ Add New Users – Users can be added to the database with validation.
 ✅ Edit & Update Users – Existing user details can be modified securely.
 ✅ Delete Users – Remove users with a confirmation alert.
@@ -10,6 +12,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using PHP
 ✅ Secure MySQL Queries – Prevents SQL injection vulnerabilities.
 
 🛠️ Technologies Used
+
 PHP – Backend logic for handling CRUD operations.
 MySQL – Database for storing user information.
 JavaScript – Client-side validation and interactive UI.
